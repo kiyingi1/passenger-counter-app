@@ -1,0 +1,45 @@
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: rgb(184, 55, 55);
+  text-align: center;
+}
+h2 {
+    margin-top: 10px;
+  color: rgb(32, 7, 7);
+  text-align: center;
+}
+button {
+border: none;
+padding-top: 10px;
+padding-bottom: 10px;
+color: blue;
+font-weight: bold;
+width: 200px;
+margin-bottom: 5px;
+border-radius: 5px;
+}
+#increment-btn{
+    background: darkred;
+    position: center;
+}
+#save-btn{
+    background: rgb(61, 139, 93);
+}
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
